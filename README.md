@@ -1,6 +1,6 @@
-# Dashboard Sidebar Menu using HTML/CSS
+# Dashboard Sidebar Menu using HTML/CSS/JavaScript
 
->Dashboard Sidebar Menu using HTML/CSS. 
+>Dashboard Sidebar Menu using HTML/CSS/JavaScript.
 
 <img src="images/giphy.gif" width="500"/>
 
